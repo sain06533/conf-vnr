@@ -31,8 +31,8 @@ function Footer() {
 
             <div className="right">
             <h2>Contact Us</h2>
-                <h5>Rahul</h5>
-                <h5>Sai</h5>
+                <h5>P-1</h5>
+                <h5>P-2</h5>
 
                 <h2>Connect With Us</h2>
                   

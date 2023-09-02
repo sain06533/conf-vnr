@@ -5,7 +5,7 @@ import Dropdown from 'react-bootstrap/Dropdown';
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="navbar-logo">VNRVJIET</div>
+      <div className="navbar-logo">Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering &Technology</div>
       <Dropdown className='dropdown'>
       <Dropdown.Toggle variant="danger" id="dropdown-basic">
         Dropdown Button
