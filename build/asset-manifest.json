@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/conf-vnr/static/css/main.c706d5cb.css",
+    "main.js": "/conf-vnr/static/js/main.70490fcc.js",
+    "static/js/787.d5fbb612.chunk.js": "/conf-vnr/static/js/787.d5fbb612.chunk.js",
+    "static/media/img2.png": "/conf-vnr/static/media/img2.a68a3231928bfdfa084e.png",
+    "static/media/iimg1.png": "/conf-vnr/static/media/iimg1.3a42950eba215c1d3eed.png",
+    "static/media/img3.png": "/conf-vnr/static/media/img3.d2481d31a70363155a1d.png",
+    "index.html": "/conf-vnr/index.html",
+    "main.c706d5cb.css.map": "/conf-vnr/static/css/main.c706d5cb.css.map",
+    "main.70490fcc.js.map": "/conf-vnr/static/js/main.70490fcc.js.map",
+    "787.d5fbb612.chunk.js.map": "/conf-vnr/static/js/787.d5fbb612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c706d5cb.css",
+    "static/js/main.70490fcc.js"
+  ]
+}
